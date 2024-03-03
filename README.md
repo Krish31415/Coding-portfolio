@@ -1,0 +1,1 @@
+Hi there! My name is Krish and I have been coding since the summer of 2020. I have made many projects over the years and this repository is a collection of my completed projects that have comments and been refined. 
