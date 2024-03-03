@@ -45,7 +45,7 @@ async def on_message(message):
     if text[0] != ".":
         return
     # dev commands
-    if message.author.id == 655996089526124572:
+    if message.author.id == ('put your discord id here, it can be accessed with dev tools'):
         if text[1:7] == "rename":
             text = message.content.split(" ")
             channel = await client.fetch_channel(text[1])
