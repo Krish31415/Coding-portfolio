@@ -1,0 +1,49 @@
+Prompt,Correct Answer,Option 0,Option 1,Option 2,Option 3
+You shouldn’t support big tech companies. They use their technology to try and mind-control the populace.,0,Strawman,Loaded Question,False Cause,No Fallacy
+"If the government increases spending, it will soon completely exhaust the nation’s monetary supplies, and the economy will collapse.",2,Personal Incredulity,False Cause,Slippery Slope,No Fallacy
+"Students who win hackathons have a higher GPA on average than those who don’t, signifying that practical experience in hackathons is likely to improve performance in school.",1,Fallacy Fallacy,False Cause,Personal Incredulity,No Fallacy
+"Even if a politician has reasonable evidence for a claim, you should doubt them purely on the basis that their moral character is compromised.",0,Ad Hominem,Appeal To Emotion,Loaded Question,No Fallacy
+"Though a sample shows that the proportion of the population which reports that they drink coffee is lower than expected, we can assume that people are probably just lying.",1,Loaded Question,Special Pleading,False Cause,No Fallacy
+"If every flight at an airport has been on time for the past month, there is an increased chance of a delay next month, because airports statistically have a delay once every week.",1,Special Pleading,Gambler's,Special Pleading,No Fallacy
+"Many people believe in bigfoot. Though of course hard evidence is hard to come by, the widespread belief implies at least a slightly higher chance of his existence.",2,Personal Incredulity,Anecdotal,Bandwagon,No Fallacy
+"The American system of social mobility is brutal. A few people somehow manage to become millionaires, but the rest die penniless.",0,Black-or-white,Personal Incredulity,Anecdotal,No Fallacy
+"The universe exists because we as thinking creatures are able to perceive it - we are able to perceive it, in turn, because the universe exists.",0,Begging The Question,Special Pleading,Texas Sharpshooter,No Fallacy
+"Many prominent scientists believe in string theory, suggesting that it should be taken seriously as a scientific proposition.",2,Personal Incredulity,Fallacy Fallacy,Appeal to Authority,No Fallacy
+"Though the president denies it, we must ask — why exactly do they look so flustered when asked about the recent scandal?",1,Texas Sharpshooter,Loaded Question,Anecdotal,No Fallacy
+Organic foods are better for you because they do not contain any chemicals which were artificially produced.,2,Black-or-white,Tu Quoque,Appeal to Nature,No Fallacy
+"If the DMV is any indicator, the state of the American bureaucracy is fundamentally inefficient and would be bolstered by free-market competition.",0,Composition/Division,Personal Incredulity,Appeal to Nature,No Fallacy
+"I don’t believe in the negative health effects of smoking. I smoke, and I feel great.",1,Bandwagon,Anecdotal,Texas Sharpshooter,No Fallacy
+"Whether you like AI or hate it, its introduction is awe-inspiring, and invokes sentiments of technological hope.",1,Texas Sharpshooter,Appeal To Emotion,False Cause,No Fallacy
+"Though some arguments against climate change are persuasive, they should not be accepted as fact because they conclude (in accurately) that small changes will slide into total collapse.",2,Gambler's,Tu Quoque,Fallacy Fallacy,No Fallacy
+"The opposition may claim that our arguments are false, but it does not detract from the fact that they have given faulty evidence.",0,Tu Quoque,Anecdotal,Ad Hominem,No Fallacy
+AI companies must be sourcing their data unethically—it’s incredibly hard to believe that their models would be this good otherwise.,1,Texas Sharpshooter,Personal Incredulity,Ad Hominem,No Fallacy
+We have yet to see conclusive evidence that the Loch Ness monster does not exist.,2,Personal Incredulity,Gambler's,Burden of Proof,No Fallacy
+"The prosecutor claims that John may have committed the crime and not Bob, though some suspect Fred. I believe that he did it.",1,Middle Ground,Ambiguity,Bandwagon,No Fallacy
+Most proponents of string theory claim that it necessitates the existence of twelve dimensions. Scientists who believe in a ten-dimension theory are fundamentally not string theorists.,0,No True Scotsman,Texas Sharpshooter,Anecdotal,No Fallacy
+"Claims that universal healthcare is a moral good are frequently made. These claims, however, probably are wrong; they come from European countries, who are biased on the subject.",1,Fallacy Fallacy,Genetic,Loaded Question,No Fallacy
+"Heart surgeons rarely get complaints from patients, suggesting that they are the most highly trained and effective of all medical professionals.",2,Loaded Question,Middle Ground,Texas Sharpshooter,No Fallacy
+The two approaches to energy production — going green and using fossil fuels — can find a beneficial solution in applying some non renewable fuels and some green energy.,0,Middle Ground,False Cause,Ambiguity,No Fallacy
+"The government has introduced a policy of censoring viewpoints that it does not like, which is illegal under the terms of the constitution.",3,Gambler's,Strawman,Appeal to Nature,No Fallacy
+"If mainstream economics is to be believed, then increasing spending on the military will raise aggregate demand in the economy and therefore inflation.",3,Slippery Slope,Special Pleading,Strawman,No Fallacy
+"Students who get more hours of sleep correlate with those who perform better on tests. Therefore, a consistent sleep schedule is critical for academic performance.",3,Special Pleading,Strawman,False Cause,No Fallacy
+"Because my opponent in the debate tournament used a study which was funded by the energy industry, I might conclude that their research on climate change has bias.",3,Appeal to Nature,Ad Hominem,Bandwagon,No Fallacy
+"Most people consume between 0-2 cups of coffee per day. Some people consume up to 9, but these are statistical outliers and not greatly significant.",3,Special Pleading,Appeal To Emotion,Slippery Slope,No Fallacy
+"If the defendant claims that there is no significant evidence to support insider trading, why is there such a large discrepancy on their tax returns?",3,Bandwagon,Gambler's,Begging The Question,No Fallacy
+"Though my last surgery failed, this next one has a 5% chance of going wrong, and I don’t believe it’s terribly likely to happen again.",3,Slippery Slope,Gambler's,Bandwagon,No Fallacy
+"The university should fund an expedition to determine whether the Siberian tiger has gone extinct—either individuals remain in Siberia, or they do not.",3,Begging The Question,Black-or-white,False Cause,No Fallacy
+"René Descartes asserts that “I think, therefore I am.” Because I have some present experience, I can at least be assured that the experience itself is happening.",3,False Cause,Bandwagon,Begging The Question,No Fallacy
+A sizable majority of the population prefers to buy candy with red wrappers. This is evidence that red wrappers may be more enticing to potential buyers.,3,Appeal To Emotion,Fallacy Fallacy,Appeal to Authority,No Fallacy
+"Even though the president says that the new enforcement program is a good thing for the nation, we should be skeptical as to their intent.",3,Begging The Question,Loaded Question,Texas Sharpshooter,No Fallacy
+Vaccines should receive approval from governmental regulatory bodies if they contain new chemicals that have not been human-tested yet.,3,Appeal to Nature,Appeal To Emotion,Fallacy Fallacy,No Fallacy
+"The university educates all graduates on calculus, and therefore it is reasonable to assume its alumni know the fundamentals of algebra.",3,Black-or-white,Middle Ground,Personal Incredulity,No Fallacy
+"Even if most people have never seen a shooting star, I witnessed one as a child, and it is entirely possible that a random passerby has as well.",3,Fallacy Fallacy,Anecdotal,Appeal to Nature,No Fallacy
+"Sixty-two percent of people report fear upon seeing a spider, which suggests that arachnophobia is fairly common among the populace.",3,Appeal To Emotion,Texas Sharpshooter,Appeal to Nature,No Fallacy
+"You have used the No True Scotsman fallacy, which suggests that the point it was included in may be flawed.",3,Loaded Question,Strawman,Fallacy Fallacy,No Fallacy
+Just because you don’t understand my point doesn’t mean it isn’t true.,3,False Cause,Personal Incredulity,Loaded Question,No Fallacy
+"Though the opposition claims that vaccine mandates are ineffective and do not save lives, we would like to point to the significantly higher death rates among unvaccinated populations.",3,Tu Quoque,Middle Ground,False Cause,No Fallacy
+The scientific community should not accept the theory that dark energy causes the expansion of the universe because our instruments cannot yet detect it.,3,Texas Sharpshooter,Middle Ground,Burden of Proof,No Fallacy
+"Either the defendant is guilty of the crime at hand, or he is not. The jury will decide this about him.",3,Genetic,Ambiguity,Middle Ground,No Fallacy
+"The city council brags that every citizen comes to its meetings, but I don’t come to them and I should still be considered a citizen.",3,No True Scotsman,Personal Incredulity,Special Pleading,No Fallacy
+"The rate of fish with some sort of genetic defect is significantly higher in waters contaminated with pesticides, which implies that the waters are causing mutations.",3,Ambiguity,Appeal To Emotion,Genetic,No Fallacy
+"Of all the people who took the new medicine, 66% experienced an increase in health compared to the control group. Therefore, the new medicine is likely effective.",3,Genetic,Texas Sharpshooter,False Cause,No Fallacy
+"Though there is debate between nationalizing the economy and truly free-market capitalism, there can exist forms of economy that land somewhere in the middle.",3,Middle Ground,Ambiguity,Genetic,No Fallacy

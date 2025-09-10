@@ -1,0 +1,6 @@
+Prompt,Correct Answer,Option 0,Option 1
+The Following Graph demonstrates the sales of organic food and the individuals diagnosed with autism.  Is the following a causation or just a correlation?,1,Causation,Correlation
+The Following Graph demonstrates the relation between number of three pointers attempted in the NBA and number of points scored by teams in the last 20 years.  Is the following a causation or a correlation?,0,Causation,Correlation
+The Following Graph demonstrates the relation between the number of ice cream sold and the number of Shark Attacks.  Is the following a causation or a correlation?,1,Causation,Correlation
+The Following Graph demonstrates the relation between the US crude oil imports from Norway and the Drivers killed in collision with railway train.  Is the following a causation or a correlation?,1,Causation,Correlation
+"The Following Graph demonstrates the relation between the US spending on science, space, and technology and the suicides by hanging, strangulation, and suffocation.  Is the following a causation or correlation?",1,Causation,Correlation
